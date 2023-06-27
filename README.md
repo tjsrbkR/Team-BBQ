@@ -12,7 +12,7 @@
 
 <h2>로그인, 회원가입, 주문</h2>
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/97294091/249009862-22543215-5713-4f43-8ccd-dcf91335a228.mp4
+https://github.com/tjsrbkR/Team-BBQ/assets/97294091/7482ad80-0bd8-4192-a516-dfb4d49c2b60
 
 <h2>관리자 페이지, 답변 </h2>
 
