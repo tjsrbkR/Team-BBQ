@@ -5,7 +5,7 @@
 프로젝트를 통해 소통하며 협업하는 방법을 배우며, 프론트 엔드와 백엔드 각 포지션을 나눠서 오류없이 페이지를 구현했습니다.
 
 #2. DB 구성
-![image](https://github.com/tjsrbkR/Team-BBQ/assets/97294091/8821c5f0-2662-42a9-816c-31a6e9fc93d3)
+[Floatleft_Project_BBQ.txt](https://github.com/tjsrbkR/Team-BBQ/files/11876879/Floatleft_Project_BBQ.txt)
 
 
 #3. 구성
