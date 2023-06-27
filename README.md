@@ -27,8 +27,7 @@ b. webapp 폴더
 [Floatleft_Project_BBQmd.TXT](https://github.com/tjsrbkR/Team-BBQ/files/11876906/Floatleft_Project_BBQmd.TXT)
 
 
-#6. 프로젝트 시연  
-로그인 ,
+#5. 프로젝트 시연  
 
 <h2>로그인, 회원가입, 주문</h2>
 
