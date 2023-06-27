@@ -9,13 +9,26 @@
 
 
 #3. 구성
-
+# Project 명
+  : Floatleft_Project_BBQ
+   => BBQ 사이트 구현 실습
+   => Model1 방식
+   
+# Project DB접속방식
+  : JDBC 이용
+  
+## Project Hieracital
+a. 자바패키지
+   biz > board + common + user + menu + order
+b. webapp 폴더
+   css + images + include + js + login_join + order
 
 #4. Work-Flow
+[Floatleft_Project_BBQmd.TXT](https://github.com/tjsrbkR/Team-BBQ/files/11876906/Floatleft_Project_BBQmd.TXT)
 
 
 #6. 프로젝트 시연  
-
+로그인 ,
 
 <h2>로그인, 회원가입, 주문</h2>
 
