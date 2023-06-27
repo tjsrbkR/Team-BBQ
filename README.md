@@ -11,7 +11,7 @@
 #6. 프로젝트 시연  
 
 <h2>로그인, 회원가입, 주문</h2>
-https://github.com/tjsrbkR/Team-BBQ/assets/97294091/748d698c-7e37-409b-9c4d-c1214421afce
+https://github-production-user-asset-6210df.s3.amazonaws.com/97294091/249009862-22543215-5713-4f43-8ccd-dcf91335a228.mp4
 
 <h2>관리자 페이지, 답변 </h2>
 https://github.com/tjsrbkR/Team-BBQ/assets/97294091/ef2972d7-5dbf-43b4-bd4c-dbf1c97b2088
