@@ -7,8 +7,6 @@
 #2. DB 구성
 [Floatleft_Project_BBQ.txt](https://github.com/tjsrbkR/Team-BBQ/files/11876879/Floatleft_Project_BBQ.txt)
 
-
-#3. 구성
 # Project 명
   : Floatleft_Project_BBQ
    => BBQ 사이트 구현 실습
